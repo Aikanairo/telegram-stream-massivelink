@@ -1,0 +1,12 @@
+venv/
+streambot.log
+__pycache__/
+WebStreamer/__pycache__/
+WebStreamer/vars.py
+WebStreamer/utils/__pycache__/
+WebStreamer/server/__pycache__/
+WebStreamer/bot/__pycache__/
+WebStreamer/bot/plugins/__pycache__/
+generatore-link-strm/versioni/
+generatore-link-strm/my_bot.session
+
